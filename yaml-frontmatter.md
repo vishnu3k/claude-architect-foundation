@@ -1,4 +1,4 @@
-# YAML Frontmatter
+# 📘 YAML Frontmatter
 
 > **Claude Architect Certification – Foundation** · Study Note
 
@@ -6,7 +6,7 @@
 
 ---
 
-## Concept in 60 seconds
+## 🧠 Concept in 60 seconds
 
 ```markdown
 ---
@@ -27,7 +27,7 @@ Everything below is the normal file body.
 
 ---
 
-## Examples
+## 🧪 Examples
 
 ### 1. Blog post (Jekyll / Hugo / GitHub Pages)
 ```yaml
@@ -69,11 +69,11 @@ allowed-tools: Bash(git diff:*), Bash(git commit:*)
 Write a commit message for the staged changes. Scope: $ARGUMENTS
 ```
 
-> Exact supported keys vary by feature and version. Verify against the current official docs before the exam.
+> ⚠️ Exact supported keys vary by feature and version. Verify against the current official docs before the exam.
 
 ---
 
-## Troubleshooting Breakdown
+## 🔍 Troubleshooting Breakdown
 
 **Scenario:** A `SKILL.md` sits in the right folder, but Claude never uses it.
 
@@ -136,7 +136,7 @@ description: "Use when the user mentions PDFs: extract text and tables"
 - Body = **content** (how to do it)
 - Broken frontmatter → silent non-loading, **fix config, not prompts**
 
-### Flashcards (click to reveal)
+### 🃏 Flashcards (click to reveal)
 
 <details>
 <summary><b>Q1.</b> Where must frontmatter appear in a file?</summary>
